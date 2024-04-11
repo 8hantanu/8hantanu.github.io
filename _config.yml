@@ -1,8 +1,4 @@
 title: Shantanu Mishra
 author: Shantanu Mishra
 favicon: "favicon.ico"
-remote_theme: 8hantanu/theme
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
+remote_theme: 8hantanu/mold
