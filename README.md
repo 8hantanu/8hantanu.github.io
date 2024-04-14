@@ -1,7 +1,10 @@
-# Shantanu Mishra
+# Hey there! 👋
+# I am Shantanu Mishra 🌻
 
-Hello there, you are quite early!
+You are are early here!
 
-This site is a work in progress.
+This page is a work in progress.
 
-Please check this spot later :)
+Please check this spot later 🤗
+
+### **[✒️ blog](blog.8hantanu.net) | [📖 wiki](wiki.8hantanu.net) | [🌱 yree](yree.io)**
