@@ -13,4 +13,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Semper auctor neque vitae tempus. Sapien et ligula ullamcorper malesuada proin libero nunc. Platea dictumst quisque sagittis purus. Integer feugiat scelerisque varius morbi enim nunc faucibus. Suscipit adipiscing bibendum est ultricies integer quis auctor elit sed. Suscipit adipiscing bibendum est ultricies integer quis auctor elit. Platea dictumst vestibulum rhoncus est pellentesque. Amet aliquam id diam maecenas. Sed felis eget velit aliquet sagittis id. Sodales neque sodales ut etiam sit amet nisl purus. Elit duis tristique sollicitudin nibh sit amet. Sodales ut eu sem integer vitae justo eget.
 
-#### **© 2024 [8hantanu](https://8hantanu.net) | [⚠️ Disclaimer](https://wiki.8hantanu.net/rest/disclaimer) | [📬 Contact](mailto:hey@8hantanu.net?subject=Hey%20there!%20👋)**
+##### **© 2024 [8hantanu](https://8hantanu.net) | [📜  Disclaimer](disclaimer) | [📬 Contact](mailto:hey@8hantanu.net?subject=Hey%20there!%20👋)**
