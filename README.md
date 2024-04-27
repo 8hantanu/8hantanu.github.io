@@ -1,21 +1,23 @@
 # Hey there! 👋
-# I am Shantanu Mishra 🌻
 
-You are are early here!
+I am **Shantanu Mishra** a.k.a. **[8hantanu](wiki/self/about#8hantanu)** across the web  🌻
 
-This page is a work in progress.
+I am a systems software engineer based in Hyderabad, primarily working on systems emulation at [AMD](https://www.amd.com).
+Emerging technologies and research in AI, high-performance computing, and robotics fascinate me.
+In my leisure, I try to make new things at [Yree](https://yree.io). 
 
-Please check this spot later 🤗
+To maintain a healthy balance, I enjoy running and occasionally engage in sports like tennis, badminton, and futsal.
+Also, I am always in need of book recommendations in thriller, psychology, and sci-fi. 
+Whenever I get a chance, I love to travel and experience new things.
+
+> **"We write to taste life twice, in the moment and in retrospect."**
+> 
+> --Anaïs Nin
 
 ## Quick links
 - ✒️ **[blog](blog)** - latest and popular pages
 - 📖 **[wiki](wiki)** - my collection of random things
 - 🌱 **[yree](https://yree.io)** - things I make
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices dui sapien eget mi. Donec pretium vulputate sapien nec. Sed lectus vestibulum mattis ullamcorper. In fermentum posuere urna nec tincidunt praesent semper feugiat. At elementum eu facilisis sed odio morbi quis commodo odio. 
-
-Velit aliquet sagittis id consectetur purus ut faucibus. Ultricies leo integer malesuada nunc vel risus commodo viverra maecenas. Euismod nisi porta lorem mollis aliquam ut porttitor leo. Sed adipiscing diam donec adipiscing. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Ut pharetra sit amet aliquam id diam maecenas ultricies.
-
-> **"We write to taste life twice, in the moment and in retrospect."**
-> 
-> --Anaïs Nin
+I am open to any ideas and requests for collaboration in the mentioned fields.
+Feel free to hit me up. ✌️
