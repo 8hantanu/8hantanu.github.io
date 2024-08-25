@@ -11,7 +11,7 @@ Whenever I get a chance, I love to travel and experience new things. 🏕️
 
 > **"We write to taste life twice, in the moment and in retrospect."**
 >
-> --Anaïs Nin
+> -- Anaïs Nin
 
 ## Quick links
 - ✒️ **[blog](blog)** - latest and popular pages
