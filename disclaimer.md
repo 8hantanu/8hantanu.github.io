@@ -4,7 +4,7 @@ TLDR; no guarantee of content accuracy, no warranty of any kind, use on your own
 
 > **"If someone can prove me wrong and show me my mistake in any thought or action, I shall gladly change. I seek the truth, which never harmed anyone; the harm is to persist in one's own self-deception and ignorance."**
 >
-> -Marcus Aurelius
+> -- Marcus Aurelius
 
 I don’t make any claims, promises, or guarantees about the accuracy, completeness, or adequacy of the contents of this database and expressly disclaim liability for errors, omissions, and inaccuracies in the contents of this database.
 
