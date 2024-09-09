@@ -5,4 +5,4 @@ favicon: favicon.svg
 remote_theme: yree/mold
 
 footer_content: >
-  ##### © 2024 [8hantanu](https://8hantanu.net). 📜 [disclaimer](disclaimer). 📬 [contact](javascript:window.location='mailto:hey@8hantanu.net?subject='+encodeURIComponent(document.title)).
+  ##### [8hantanu](https://8hantanu.net) :: [disclaimer](disclaimer) :: [contact](javascript:window.location='mailto:hey@8hantanu.net?subject='+encodeURIComponent(document.title)).
