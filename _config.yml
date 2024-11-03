@@ -5,6 +5,6 @@ favicon: favicon.svg
 remote_theme: yree/mold
 
 footer_content: >
-  ##### [8hantanu](https://8hantanu.net) :: [disclaimer](disclaimer) :: [contact](javascript:window.location='mailto:hey@8hantanu.net?subject='+encodeURIComponent(document.title))
+  [8hantanu](https://8hantanu.net) :: [disclaimer](disclaimer) :: [contact](javascript:window.location='mailto:hey@8hantanu.net?subject='+encodeURIComponent(document.title))
 
 goat_counter: 8hantanu
