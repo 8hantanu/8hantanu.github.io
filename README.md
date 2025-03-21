@@ -5,8 +5,8 @@ I am **Shantanu Mishra**, a.k.a. **[8hantanu](wiki/self/about#8hantanu)** across
 A systems software engineer based in Hyderabad, primarily working on simulation at [AMD](https://www.amd.com).
 In my leisure, I try to make new things at [Yree](https://yree.io).
 
-A minimalist who enjoys reading and thrives on running.\
-I find myself mostly writing and organizing — this website being a testament to that!\
+A minimalist who enjoys reading and thrives on running.
+I find myself mostly writing and organizing — this website being a testament to that!
 Whenever I get a chance, I love to [travel](wiki/self/experiences/travel/) and experience new things.
 
 ## Quick links
