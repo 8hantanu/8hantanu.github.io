@@ -14,10 +14,40 @@ Whenever I get a chance, I love to [travel](wiki/self/experiences/travel/) and e
 - **[wiki](wiki)** — my collection of random things
 - **[feed](feed)** — posts from my bsky feed
 - **[yree](https://yree.io)** — things I make
-- **[blog](blog)** — latest and popular pages
+- **<a href="#" id="wander">wander</a>** — are you feeling lucky?
 
 > **"We write to taste life twice, in the moment and in retrospect."**
 >
 > -- Anaïs Nin
 
 Feel free to hit me up.
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const wander = document.getElementById('wander');
+    if (wander) {
+      wander.addEventListener('click', async function (e) {
+        e.preventDefault();
+        try {
+          const resp = await fetch('/sitemap.xml');
+          if (!resp.ok) throw new Error('Could not fetch sitemap');
+          const xml = await resp.text();
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(xml, 'application/xml');
+
+          const urls = Array.from(doc.querySelectorAll('url > loc'))
+                            .map(el => el.textContent)
+                            .filter(u => u && u.startsWith(location.origin));
+
+          if (!urls.length) throw new Error('No URLs found');
+
+          const choice = urls[Math.floor(Math.random() * urls.length)];
+          window.location.href = choice;
+        } catch (err) {
+          console.error(err);
+          alert('Something went wrong. Try again later.');
+        }
+      });
+    }
+  });
+</script>
