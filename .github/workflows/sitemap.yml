@@ -30,7 +30,7 @@ jobs:
 
       - name: Generate sitemap.md
         run: |
-          cat << 'EOF' > generate-sitemap-md.sh
+          cat << EOF > generate-sitemap-md.sh
           #!/bin/bash
 
           SITEMAP_XML="sitemap.xml"
@@ -44,7 +44,7 @@ jobs:
           echo "[\$ROOT_DOMAIN/](\$ROOT_DOMAIN/)  " >> "\$OUTPUT_MD"
 
           while IFS= read -r path; do
-              clean_path=\$(echo "\$path" | sed 's/^\/\|\/\$//g')
+              clean_path=\$(echo "\$path" | sed 's/^\\/\\|\\/\$//g')
               [ -z "\$clean_path" ] && continue
 
               IFS='/' read -ra parts <<< "\$clean_path"
