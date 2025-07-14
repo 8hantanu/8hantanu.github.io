@@ -3,14 +3,14 @@ name: Generate Sitemap
 on:
   schedule:
     - cron: '0 0 * * *'  # Every day at 00:00 GMT
-  workflow_dispatch:     # Allows manual trigger
+  workflow_dispatch:     # Manual trigger for testing
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -21,18 +21,56 @@ jobs:
       - name: Install sitemap-generator-cli
         run: npm install -g sitemap-generator-cli
 
-      - name: Generate sitemap
+      - name: Generate sitemap.xml
         run: |
           npx sitemap-generator https://8hantanu.net \
             --output ./sitemap.xml \
             --strip-querystring \
-            --max-depth 10 \
-            --timeout 5000
+            --max-depth 10
 
-      - name: Commit sitemap.xml
+      - name: Generate sitemap.md
+        run: |
+          cat << 'EOF' > generate-sitemap-md.sh
+          #!/bin/bash
+
+          SITEMAP_XML="sitemap.xml"
+          OUTPUT_MD="sitemap.md"
+          ROOT_DOMAIN="https://8hantanu.net"
+
+          urls=\$(grep -oP '(?<=<loc>).*?(?=</loc>)' "\$SITEMAP_XML" | sed "s|\$ROOT_DOMAIN||" | sort)
+
+          echo "# Sitemap" > "\$OUTPUT_MD"
+          echo "" >> "\$OUTPUT_MD"
+          echo "[\$ROOT_DOMAIN/](\$ROOT_DOMAIN/)  " >> "\$OUTPUT_MD"
+
+          while IFS= read -r path; do
+              clean_path=\$(echo "\$path" | sed 's/^\/\|\/\$//g')
+              [ -z "\$clean_path" ] && continue
+
+              IFS='/' read -ra parts <<< "\$clean_path"
+              indent=""
+              for ((i=0; i<\${#parts[@]}-1; i++)); do
+                  indent+="│   "
+              done
+
+              name="\${parts[-1]}"
+              full_url="\$ROOT_DOMAIN\$path"
+              trailing_slash=""
+              [[ "\$path" == */ ]] && trailing_slash="/"
+
+              echo "\${indent}├── [\${name}\${trailing_slash}](\${full_url})  " >> "\$OUTPUT_MD"
+          done <<< "\$urls"
+
+          echo "✅ Generated \$OUTPUT_MD"
+          EOF
+
+          chmod +x generate-sitemap-md.sh
+          ./generate-sitemap-md.sh
+
+      - name: Commit sitemap files
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add sitemap.xml
-          git commit -m "Auto-update sitemap.xml [cron]" || echo "No changes to commit"
+          git add sitemap.xml sitemap.md
+          git commit -m "Auto-update sitemap [cron]" || echo "No changes to commit"
           git push
