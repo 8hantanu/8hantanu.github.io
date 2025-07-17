@@ -1,7 +1,6 @@
 # Sitemap
 
 [https://8hantanu.net/](https://8hantanu.net/)  
-├── [citrus/](https://8hantanu.net/citrus/)  
 ├── [disclaimer](https://8hantanu.net/disclaimer)  
 ├── [dock/](https://8hantanu.net/dock/)  
 ├── [dots/](https://8hantanu.net/dots/)  
