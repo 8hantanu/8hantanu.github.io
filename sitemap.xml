@@ -88,13 +88,13 @@
     <loc>https://8hantanu.net/wiki/self/lifestyle/self-care</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/self/lifestyle/fitness</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/diet</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/van-plan</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/writings/poems</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/projects/</loc>
@@ -112,7 +112,7 @@
     <loc>https://8hantanu.net/wiki/work/notes/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/lifestyle/fitness</loc>
+    <loc>https://8hantanu.net/wiki/self/writings/poems</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/over/lists/</loc>
@@ -166,9 +166,6 @@
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-05</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/projects/visma/log-06</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/work/notes/computers/polyglot/cpp</loc>
   </url>
   <url>
@@ -185,5 +182,8 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/computers/compilers/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/projects/visma/log-06</loc>
   </url>
 </urlset>
