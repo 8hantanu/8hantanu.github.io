@@ -79,10 +79,10 @@
     <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/tabo/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/lifestyle/fashion</loc>
+    <loc>https://8hantanu.net/wiki/self/lifestyle/journal</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/lifestyle/journal</loc>
+    <loc>https://8hantanu.net/wiki/self/lifestyle/fashion</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/minimaxilism</loc>
@@ -109,13 +109,10 @@
     <loc>https://8hantanu.net/wiki/work/projects/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/design/</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/work/research/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/academia/</loc>
+    <loc>https://8hantanu.net/wiki/work/design/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/</loc>
@@ -124,10 +121,10 @@
     <loc>https://8hantanu.net/wiki/over/lists/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/research/hypercake-number</loc>
+    <loc>https://8hantanu.net/wiki/work/academia/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/academia/cs-6120</loc>
+    <loc>https://8hantanu.net/wiki/work/research/hypercake-number</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/over/lists/reading</loc>
@@ -136,25 +133,22 @@
     <loc>https://8hantanu.net/wiki/over/lists/travel</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/over/lists/watchlist</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/plug/</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/dock/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/dots/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/projects/visma/</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/over/lists/watchlist</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/work/projects/cytocube/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/computers/</loc>
+    <loc>https://8hantanu.net/wiki/work/academia/cs-6120</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/plug/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-01</loc>
@@ -163,10 +157,10 @@
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-02</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/projects/visma/log-03</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/computers/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/projects/visma/log-04</loc>
+    <loc>https://8hantanu.net/wiki/work/projects/visma/log-03</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-05</loc>
@@ -184,12 +178,18 @@
     <loc>https://8hantanu.net/wiki/work/notes/computers/polyglot/python</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/computers/tools/vim</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/work/notes/computers/tools/tmux</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/computers/compilers/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/notes/computers/tools/vim</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/projects/visma/log-04</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/dots/</loc>
   </url>
 </urlset>
