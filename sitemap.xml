@@ -7,9 +7,6 @@
     <loc>https://8hantanu.net/wiki/self/about</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/disclaimer</loc>
   </url>
   <url>
@@ -17,9 +14,6 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/feed/</loc>
@@ -31,19 +25,13 @@
     <loc>https://8hantanu.net/wiki/self/lifestyle/work-over-self</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/delhi/</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/work/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/over/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/hyderabad</loc>
+    <loc>https://8hantanu.net/wiki/self/experiences/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/</loc>
@@ -55,28 +43,10 @@
     <loc>https://8hantanu.net/wiki/self/lifestyle/things/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/chicham/</loc>
+    <loc>https://8hantanu.net/wiki/self/experiences/travel</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/chitkul/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/dhankar/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/kaza/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/kalpa/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/nako/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/shimla/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel/destinations/tabo/</loc>
+    <loc>https://8hantanu.net/wiki/self/experiences/events</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/journal</loc>
@@ -121,22 +91,16 @@
     <loc>https://8hantanu.net/wiki/work/notes/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/over/lists/</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/work/research/hypercake-number</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/academia/cs-6120</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/over/lists/reading</loc>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/over/lists/travel</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/over/lists/watchlist</loc>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/delhi/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/plug/</loc>
@@ -155,6 +119,9 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/computers/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/hyderabad</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-01</loc>
@@ -188,6 +155,30 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/computers/tools/tmux</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/chicham/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/chitkul/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/dhankar/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/kaza/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/kalpa/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/nako/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/shimla/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/tabo/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/computers/compilers/</loc>
