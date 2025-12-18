@@ -12,6 +12,7 @@ Whenever I get a chance, I love to [travel](wiki/self/experiences/travel/) and e
 Have a look around.
 
 - **[wiki](wiki)** — my collection of random things
+- **[blog](blog)** — latest and greatest from the wiki
 - **[feed](feed)** — posts from my bsky feed
 - **[yree](https://yree.io)** — things I make
 - **[more](wiki/wander)** — are you feeling lucky?
