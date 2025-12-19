@@ -16,6 +16,9 @@
     <loc>https://8hantanu.net/wiki/</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/blog/</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/feed/</loc>
   </url>
   <url>
@@ -23,6 +26,9 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/work-over-self</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/research/hypercake-number</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/</loc>
@@ -89,9 +95,6 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/work/research/hypercake-number</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/academia/cs-6120</loc>

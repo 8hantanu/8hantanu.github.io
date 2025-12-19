@@ -1,6 +1,7 @@
 # Sitemap
 
 [https://8hantanu.net/](https://8hantanu.net/)  
+├── [blog/](https://8hantanu.net/blog/)  
 ├── [disclaimer](https://8hantanu.net/disclaimer)  
 ├── [dock/](https://8hantanu.net/dock/)  
 ├── [dots/](https://8hantanu.net/dots/)  
