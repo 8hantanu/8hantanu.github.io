@@ -27,8 +27,6 @@
 │   │   │   │   ├── [tabo/](https://8hantanu.net/wiki/self/experiences/places/tabo/)  
 │   │   │   ├── [travel](https://8hantanu.net/wiki/self/experiences/travel)  
 │   │   ├── [lifestyle/](https://8hantanu.net/wiki/self/lifestyle/)  
-│   │   │   ├── [diet](https://8hantanu.net/wiki/self/lifestyle/diet)  
-│   │   │   ├── [digital](https://8hantanu.net/wiki/self/lifestyle/digital)  
 │   │   │   ├── [fashion](https://8hantanu.net/wiki/self/lifestyle/fashion)  
 │   │   │   ├── [fitness](https://8hantanu.net/wiki/self/lifestyle/fitness)  
 │   │   │   ├── [journal](https://8hantanu.net/wiki/self/lifestyle/journal)  
