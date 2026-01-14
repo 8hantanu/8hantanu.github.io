@@ -25,6 +25,7 @@
 │   │   │   │   ├── [nako/](https://8hantanu.net/wiki/self/experiences/places/nako/)  
 │   │   │   │   ├── [shimla/](https://8hantanu.net/wiki/self/experiences/places/shimla/)  
 │   │   │   │   ├── [tabo/](https://8hantanu.net/wiki/self/experiences/places/tabo/)  
+│   │   │   │   ├── [york/](https://8hantanu.net/wiki/self/experiences/places/york/)  
 │   │   │   ├── [travel](https://8hantanu.net/wiki/self/experiences/travel)  
 │   │   ├── [lifestyle/](https://8hantanu.net/wiki/self/lifestyle/)  
 │   │   │   ├── [fashion](https://8hantanu.net/wiki/self/lifestyle/fashion)  
