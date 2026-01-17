@@ -9,6 +9,7 @@
 ├── [plug/](https://8hantanu.net/plug/)  
 ├── [wiki/](https://8hantanu.net/wiki/)  
 │   ├── [over/](https://8hantanu.net/wiki/over/)  
+│   │   ├── [dictionary](https://8hantanu.net/wiki/over/dictionary)  
 │   ├── [self/](https://8hantanu.net/wiki/self/)  
 │   │   ├── [about](https://8hantanu.net/wiki/self/about)  
 │   │   ├── [experiences/](https://8hantanu.net/wiki/self/experiences/)  
