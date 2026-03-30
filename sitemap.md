@@ -31,6 +31,7 @@
 │   │   │   │   ├── [york/](https://8hantanu.net/wiki/self/experiences/places/york/)  
 │   │   │   ├── [travel](https://8hantanu.net/wiki/self/experiences/travel)  
 │   │   ├── [lifestyle/](https://8hantanu.net/wiki/self/lifestyle/)  
+│   │   │   ├── [coprime-capsule-closet](https://8hantanu.net/wiki/self/lifestyle/coprime-capsule-closet)  
 │   │   │   ├── [fashion](https://8hantanu.net/wiki/self/lifestyle/fashion)  
 │   │   │   ├── [fitness](https://8hantanu.net/wiki/self/lifestyle/fitness)  
 │   │   │   ├── [journal](https://8hantanu.net/wiki/self/lifestyle/journal)  
@@ -64,3 +65,4 @@
 │   │   │   │   ├── [log-06](https://8hantanu.net/wiki/work/projects/visma/log-06)  
 │   │   ├── [research/](https://8hantanu.net/wiki/work/research/)  
 │   │   │   ├── [hypercake-number](https://8hantanu.net/wiki/work/research/hypercake-number)  
+│   │   │   ├── [zed-and-zen](https://8hantanu.net/wiki/work/setup/zed-and-zen)  
