@@ -3,7 +3,6 @@
 [https://8hantanu.net/](https://8hantanu.net/)  
 ├── [blog/](https://8hantanu.net/blog/)  
 ├── [disclaimer](https://8hantanu.net/disclaimer)  
-├── [dock/](https://8hantanu.net/dock/)  
 ├── [dots/](https://8hantanu.net/dots/)  
 ├── [feed/](https://8hantanu.net/feed/)  
 ├── [plug/](https://8hantanu.net/plug/)  
