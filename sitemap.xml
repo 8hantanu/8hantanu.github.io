@@ -13,9 +13,6 @@
     <loc>https://8hantanu.net/disclaimer</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/books</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/</loc>
   </url>
   <url>
@@ -35,6 +32,12 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/york/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/luang-prabang/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/jaipur/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/setup/zed-and-zen</loc>
@@ -85,10 +88,16 @@
     <loc>https://8hantanu.net/wiki/self/lifestyle/things/</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/stung-treng/</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/cambridge/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/leeds/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/ajmer/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/bidar/</loc>
@@ -106,6 +115,12 @@
     <loc>https://8hantanu.net/wiki/self/experiences/places/dhankar/</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/jaisalmer/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/jodhpur/</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/kaza/</loc>
   </url>
   <url>
@@ -115,10 +130,25 @@
     <loc>https://8hantanu.net/wiki/self/experiences/places/nako/</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/pushkar/</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/shimla/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/tabo/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/udaipur/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/4000-islands/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/pakse/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/vang-vieng/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/edinburgh/</loc>
@@ -163,13 +193,7 @@
     <loc>https://8hantanu.net/wiki/work/research/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/academia/</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/work/notes/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/work/academia/cs-6120</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/plug/</loc>
@@ -184,7 +208,13 @@
     <loc>https://8hantanu.net/wiki/work/projects/cytocube/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/computers/</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/subjects/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/notes/courses/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-01</loc>
@@ -205,21 +235,36 @@
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-06</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/computers/polyglot/cpp</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/courses/cs-6120</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/computers/polyglot/rust</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/basics</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/computers/polyglot/python</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/transformers</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/computers/tools/vim</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/mamba</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/computers/tools/tmux</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/quantization</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/computers/compilers/</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/vision</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/diffusion</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/quantum/algorithms</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/notes/subjects/computers/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/quantum/</loc>
   </url>
 </urlset>
