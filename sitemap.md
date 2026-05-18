@@ -88,4 +88,5 @@
 │   │   │   │   ├── [log-06](https://8hantanu.net/wiki/work/projects/visma/log-06)  
 │   │   ├── [research/](https://8hantanu.net/wiki/work/research/)  
 │   │   │   ├── [hypercake-number](https://8hantanu.net/wiki/work/research/hypercake-number)  
+│   │   │   ├── [fuar](https://8hantanu.net/wiki/work/setup/fuar)  
 │   │   │   ├── [zed-and-zen](https://8hantanu.net/wiki/work/setup/zed-and-zen)  
