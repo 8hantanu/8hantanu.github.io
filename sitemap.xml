@@ -13,6 +13,9 @@
     <loc>https://8hantanu.net/disclaimer</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/over/lists/reading</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/</loc>
   </url>
   <url>
@@ -23,6 +26,9 @@
   </url>
   <url>
     <loc>https://8hantanu.net/feed/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/over/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/work-over-self</loc>
@@ -55,9 +61,6 @@
     <loc>https://8hantanu.net/wiki/work/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/over/</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/gokarna</loc>
   </url>
   <url>
@@ -88,6 +91,9 @@
     <loc>https://8hantanu.net/wiki/self/writings/</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/over/lists/</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/things/</loc>
   </url>
   <url>
@@ -100,13 +106,13 @@
     <loc>https://8hantanu.net/wiki/self/experiences/places/leeds/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/places/ajmer/</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/bidar/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/chicham/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/ajmer/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/chitkul/</loc>
@@ -187,6 +193,9 @@
     <loc>https://8hantanu.net/wiki/self/writings/poems</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/over/lists/watch</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/work/projects/</loc>
   </url>
   <url>
@@ -200,6 +209,9 @@
   </url>
   <url>
     <loc>https://8hantanu.net/plug/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/pods/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/dots/</loc>
@@ -260,6 +272,9 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/formulas/quantum/algorithms</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/pods/pod-dev/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/subjects/computers/</loc>
