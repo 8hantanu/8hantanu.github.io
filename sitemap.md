@@ -45,6 +45,7 @@
 │   │   │   │   ├── [pune](https://8hantanu.net/wiki/self/experiences/places/pune)  
 │   │   │   │   ├── [pushkar/](https://8hantanu.net/wiki/self/experiences/places/pushkar/)  
 │   │   │   │   ├── [san-francisco](https://8hantanu.net/wiki/self/experiences/places/san-francisco)  
+│   │   │   │   ├── [san-jose](https://8hantanu.net/wiki/self/experiences/places/san-jose)  
 │   │   │   │   ├── [shimla/](https://8hantanu.net/wiki/self/experiences/places/shimla/)  
 │   │   │   │   ├── [stung-treng/](https://8hantanu.net/wiki/self/experiences/places/stung-treng/)  
 │   │   │   │   ├── [tabo/](https://8hantanu.net/wiki/self/experiences/places/tabo/)  
