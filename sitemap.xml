@@ -34,6 +34,9 @@
     <loc>https://8hantanu.net/wiki/self/lifestyle/work-over-self</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/york/</loc>
   </url>
   <url>
@@ -58,13 +61,28 @@
     <loc>https://8hantanu.net/wiki/work/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/over/dictionary</loc>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/gokarna</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/hyderabad</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/pune</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/half-moon-bay</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/san-francisco</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/san-jose</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/self/experiences/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/over/dictionary</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/</loc>
@@ -79,10 +97,76 @@
     <loc>https://8hantanu.net/wiki/over/matter/things/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/places/vang-vieng/</loc>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/stung-treng/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/cambridge/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/leeds/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/ajmer/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/bidar/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/chicham/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/chitkul/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/delhi/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/dhankar/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/jaisalmer/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/jodhpur/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/kaza/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/kalpa/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/nako/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/pushkar/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/shimla/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/tabo/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/udaipur/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/4000-islands/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/pakse/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/vang-vieng/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/edinburgh/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/bangkok/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/experiences/places/istanbul/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/events</loc>
@@ -128,12 +212,6 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/over/matter/bits</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/places/pushkar/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/places/udaipur/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/plug/</loc>
@@ -184,25 +262,22 @@
     <loc>https://8hantanu.net/wiki/work/notes/formulas/basics</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/quantization</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/transformers</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/mamba</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/vision</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/quantization</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/formulas/quantum/algorithms</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/vision</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/diffusion</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/places/jodhpur/</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/quantum/algorithms</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/pods/pod-dev/</loc>
