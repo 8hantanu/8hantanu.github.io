@@ -220,16 +220,13 @@
     <loc>https://8hantanu.net/pods/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/projects/cytocube/</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/dots/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/projects/visma/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/formulas/</loc>
+    <loc>https://8hantanu.net/wiki/work/projects/cytocube/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/subjects/</loc>
@@ -238,7 +235,13 @@
     <loc>https://8hantanu.net/wiki/work/notes/courses/</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-01</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/work/projects/visma/log-02</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-03</loc>
@@ -247,16 +250,16 @@
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-04</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/projects/visma/log-02</loc>
+    <loc>https://8hantanu.net/wiki/work/projects/visma/log-05</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/projects/visma/log-06</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/formulas/basics</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/courses/cs-6120</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/projects/visma/log-05</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/formulas/basics</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/transformers</loc>
@@ -277,18 +280,15 @@
     <loc>https://8hantanu.net/wiki/work/notes/formulas/quantum/algorithms</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/work/notes/courses/cs-6120</loc>
+    <loc>https://8hantanu.net/pods/pod-dev/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/pods/pod-dev/</loc>
+    <loc>https://8hantanu.net/wiki/work/notes/subjects/computers/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/formulas/deep-learning/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/notes/formulas/quantum/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/work/notes/subjects/computers/</loc>
   </url>
 </urlset>
