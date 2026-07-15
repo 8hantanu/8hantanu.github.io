@@ -4,34 +4,28 @@
     <loc>https://8hantanu.net/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/about</loc>
+    <loc>https://8hantanu.net/wiki/self/experiences/travel</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/experiences/travel</loc>
+    <loc>https://8hantanu.net/wiki/self/about</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/disclaimer</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/over/lists/reading</loc>
+    <loc>https://8hantanu.net/wiki/self/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/</loc>
+    <loc>https://8hantanu.net/wiki/over/lists/reading</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/blog/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/feed/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/over/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/self/lifestyle/work-over-self</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/</loc>
@@ -46,6 +40,12 @@
     <loc>https://8hantanu.net/wiki/self/experiences/places/jaipur/</loc>
   </url>
   <url>
+    <loc>https://8hantanu.net/wiki/self/lifestyle/work-over-self</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/over/</loc>
+  </url>
+  <url>
     <loc>https://8hantanu.net/wiki/work/setup/fuar</loc>
   </url>
   <url>
@@ -56,9 +56,6 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/research/hypercake-number</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/work/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/gokarna</loc>
@@ -91,10 +88,7 @@
     <loc>https://8hantanu.net/wiki/self/writings/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/over/lists/</loc>
-  </url>
-  <url>
-    <loc>https://8hantanu.net/wiki/over/matter/things/</loc>
+    <loc>https://8hantanu.net/wiki/work/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/experiences/places/stung-treng/</loc>
@@ -193,7 +187,10 @@
     <loc>https://8hantanu.net/wiki/self/writings/poems</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/over/lists/watch</loc>
+    <loc>https://8hantanu.net/wiki/over/matter/things/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/over/lists/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/work/projects/</loc>
@@ -209,6 +206,9 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/over/matter/</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/over/lists/watch</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/over/matter/bits</loc>
