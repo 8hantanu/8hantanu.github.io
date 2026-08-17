@@ -70,6 +70,7 @@
 │   │   │   │   ├── [log-03](https://8hantanu.net/wiki/work/projects/visma/log-03)  
 │   │   │   │   ├── [log-04](https://8hantanu.net/wiki/work/projects/visma/log-04)  
 │   │   │   │   ├── [log-05](https://8hantanu.net/wiki/work/projects/visma/log-05)  
+│   │   │   │   ├── [log-06](https://8hantanu.net/wiki/work/projects/visma/log-06)  
 │   │   ├── [research/](https://8hantanu.net/wiki/work/research/)  
 │   │   │   ├── [hypercake-number](https://8hantanu.net/wiki/work/research/hypercake-number)  
 │   │   │   ├── [fuar](https://8hantanu.net/wiki/work/setup/fuar)  
