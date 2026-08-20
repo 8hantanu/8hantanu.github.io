@@ -64,10 +64,10 @@
     <loc>https://8hantanu.net/wiki/over/dictionary</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/writings/</loc>
+    <loc>https://8hantanu.net/wiki/self/lifestyle/</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/lifestyle/</loc>
+    <loc>https://8hantanu.net/wiki/self/writings/</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/over/lists/</loc>
@@ -106,9 +106,6 @@
     <loc>https://8hantanu.net/wiki/self/experiences/events</loc>
   </url>
   <url>
-    <loc>https://8hantanu.net/wiki/self/writings/poems</loc>
-  </url>
-  <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/journal</loc>
   </url>
   <url>
@@ -125,6 +122,9 @@
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/self/lifestyle/van-plan</loc>
+  </url>
+  <url>
+    <loc>https://8hantanu.net/wiki/self/writings/poems</loc>
   </url>
   <url>
     <loc>https://8hantanu.net/wiki/over/lists/watch</loc>
