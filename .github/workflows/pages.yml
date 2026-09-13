@@ -45,8 +45,8 @@ jobs:
       - name: Install Jekyll and kramdown
         # Full plugin set from _config.yml (mirrors GitHub Pages defaults).
         # jekyll-feed/seo-tag/sitemap would also load via the theme's
-        # gemspec (jekyll-remote-theme auto-requires theme dependencies),
-        # but explicit matches branch-Pages behavior exactly.
+        # gemspec (jekyll-remote-theme auto-requires theme dependencies).
+        # jekyll-sitemap's output is overwritten by the assemble step below.
         run: gem install --no-document 'jekyll:~>3.9.0' jekyll-remote-theme jekyll-feed jekyll-seo-tag jekyll-sitemap jekyll-readme-index jekyll-optional-front-matter jekyll-relative-links jekyll-default-layout jekyll-titles-from-headings kramdown kramdown-parser-gfm
 
       - name: Generate blog.md and feed.xml
@@ -54,6 +54,9 @@ jobs:
 
       - name: Build site
         run: jekyll build --trace
+
+      - name: Assemble domain sitemap
+        run: python .github/scripts/assemble_sitemap.py
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
