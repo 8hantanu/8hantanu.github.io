@@ -1,4 +1,4 @@
-# hey there! 👋
+# Hey there! 👋
 
 I am **Shantanu Mishra**, a.k.a. **[8hantanu](wiki/self/about#8hantanu)** across the web. 
 

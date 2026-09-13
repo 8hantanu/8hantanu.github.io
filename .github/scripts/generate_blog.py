@@ -195,7 +195,7 @@ def render_blog_md(posts: list[Post]) -> str:
         "",
         "# Shantanu's Blog",
         "",
-        "**Collection of the latest and greatest pages from the wiki**",
+        "**Collection of the latest and greatest pages from the [wiki](https://8hantanu.net/wiki)**",
         "",
         "[Subscribe via RSS](/feed.xml)",
         "",
