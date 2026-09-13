@@ -1,0 +1,74 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    # Saturday 00:00 (UTC) — picks up wiki changes weekly
+    - cron: "0 0 * * 6"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout root repo (this repo)
+        uses: actions/checkout@v4
+
+      - name: Checkout wiki repo (blog/feed source)
+        uses: actions/checkout@v4
+        with:
+          repository: 8hantanu/wiki
+          path: wiki
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+
+      - name: Install Jekyll and kramdown
+        # Full plugin set from _config.yml (mirrors GitHub Pages defaults).
+        # jekyll-feed/seo-tag/sitemap would also load via the theme's
+        # gemspec (jekyll-remote-theme auto-requires theme dependencies),
+        # but explicit matches branch-Pages behavior exactly.
+        run: gem install --no-document 'jekyll:~>3.9.0' jekyll-remote-theme jekyll-feed jekyll-seo-tag jekyll-sitemap jekyll-readme-index jekyll-optional-front-matter jekyll-relative-links jekyll-default-layout jekyll-titles-from-headings kramdown kramdown-parser-gfm
+
+      - name: Generate blog.md and feed.xml
+        run: python .github/scripts/generate_blog.py
+
+      - name: Build site
+        run: jekyll build --trace
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

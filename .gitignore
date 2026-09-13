@@ -1,0 +1,7 @@
+# CI checkout of 8hantanu/wiki (see .github/workflows/pages.yml)
+wiki/
+# Generated per deploy, never committed (see .github/workflows/pages.yml)
+blog.md
+feed.xml
+_site/
+.jekyll-cache/

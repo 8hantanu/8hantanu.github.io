@@ -1,8 +1,24 @@
 title: Shantanu Mishra
 author: Shantanu Mishra
 
+url: https://8hantanu.net
+description: Shantanu Mishra's personal website.
+
 favicon: favicon.svg
 remote_theme: yree/mold
+
+# Same plugin set GitHub Pages enables by default (branch builds get
+# these implicitly; the Actions build in pages.yml must declare them).
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
 
 footer_content: >
   [8hantanu](https://8hantanu.net) — [disclaimer](disclaimer) — [contact](javascript:window.location='mailto:hey@8hantanu.net?subject='+encodeURIComponent(document.title))
